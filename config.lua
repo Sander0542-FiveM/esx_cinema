@@ -1,9 +1,9 @@
 Config = {}
 
-Config.Locale = 'fr'
+Config.Locale = 'en'
 
-Config.OpeningHour = 19
-Config.ClosingHour = 23
+Config.OpeningHour = 10
+Config.ClosingHour = 2
 
 Config.CinemaLocations = {
 	{ name = 'Downtown', coord = vector3(300.7, 200.7, 104.0), heading = 161.9 },
